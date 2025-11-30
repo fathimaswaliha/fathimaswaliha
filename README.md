@@ -2,7 +2,7 @@
 
 I'm **Fathimma Swaliha**,  a passionate data science enthusiast currently pursuing my PG Diploma in Data Science. I hold a Bachelor's degree in Mathematics, which strengthened my analytical and problem-solving skills. I am building my expertise in Python, data analysis, machine learning, and real-world data projects. My goal is to become a skilled Data Scientist who can solve meaningful problems, uncover insights, and contribute to data-driven decision making.
 
-<a href="www.linkedin.com/in/fathimma-swaliha-11a607381"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://www.linkedin.com/in/fathimma-swaliha-11a607381"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
